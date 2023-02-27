@@ -32,7 +32,3 @@ def decode(password):
         else:
             end_text += char
     return end_text
-
-
-# Implement Encode function in save() function
-# Implement Decode function in search_password() function
